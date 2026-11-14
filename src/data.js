@@ -1,5 +1,6 @@
 export const nav = [
   { label: 'Platform', to: '/platform' },
+  { label: 'Features', to: '/features' },
   { label: 'Solutions', to: '/solutions' },
   { label: 'Industries', to: '/industries' },
   { label: 'Resources', to: '/resources' },
